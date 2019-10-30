@@ -17,10 +17,6 @@
   </dependencies>
   <distributionManagement>
     <repository>
-	<contexturl>http://18.191.234.212:8081/artifactory</contexturl>
-	<username>admin</username>
-	<password>nani@7692</password>
-	<exculdePatterns>*-tests.jar</exculdedPatterns>
 	<repoKey>batman</repoKey>
         <id>central</id>
         <name>ip-172-31-11-109-releases</name>
