@@ -17,7 +17,7 @@
   </dependencies>
   <distributionManagement>
     <repository>
-	<contextUrl>http://18.191.234.212:8081/artifactory</contextUrl>
+	<contexturl>http://18.191.234.212:8081/artifactory</contexturl>
 	<username>admin</username>
 	<password>nani@7692</password>
 	<exculdePatterns>*-tests.jar</exculdedPatterns>
